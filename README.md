@@ -21,10 +21,27 @@
 
 <h2>High-Level Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+<h3> firstly, i am creating a resource group in here in order to install a VM1 and VM2 </h3>
+
+![image](https://github.com/ambrosegriffiths/Configuring-Active-Directory-within-Azure-VMs/assets/167513668/dea1ac12-3045-46d3-956c-e1f73e2acca0)
+
+<h3>This is the first VM1 machini created to connect my Remote desktop control</h3>
+
+![image](https://github.com/ambrosegriffiths/Configuring-Active-Directory-within-Azure-VMs/assets/167513668/f658346c-e94b-446b-9855-fd0ee55cbb4f)
+
+<h3>Creating VM2 using Ubuntu</h3>
+
+![image](https://github.com/ambrosegriffiths/Configuring-Active-Directory-within-Azure-VMs/assets/167513668/aa258b06-7201-4e7d-81d6-31905280b9bf)
+
+<h3>In here the VM1, now i am going to use the private IP adress to connect my first remote desktop control</h3>
+
+![image](https://github.com/ambrosegriffiths/Configuring-Active-Directory-within-Azure-VMs/assets/167513668/ed74004e-6010-4d44-bce5-9042c17030a7)
+
+
+<h3> this is a virtual machine created on my disktop </h3>
+
+![image](https://github.com/ambrosegriffiths/Configuring-Active-Directory-within-Azure-VMs/assets/167513668/f50b5cf8-303f-4f26-8acc-c316f5b9a4a3)
+
 
 <h2>Actions and Observations</h2>
 
