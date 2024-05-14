@@ -57,8 +57,9 @@
 
 ![image](https://github.com/ambrosegriffiths/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols/assets/167513668/db8a239b-0527-4a46-89cb-9115e1fc8742)
 
+<h3>Using nslookup to view ip address on google</h3>
 
-
+![image](https://github.com/ambrosegriffiths/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols/assets/167513668/dac1f4b7-be5d-4618-8faf-407691e4f24b)
 
 
 <h2>Actions and Observations</h2>
