@@ -1,7 +1,10 @@
 
+
 <p align="center">
-<img src="https://i.imgur.com/Ua7udoS.png" alt="Traffic Examination"/>
+  <img src="https://github.com/ambrosegriffiths/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols/assets/167513668/f9807cb2-2696-4149-804f-498934146cc6)"/>
 </p>
+
+
 
 <h1>Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines</h1>
 
@@ -41,6 +44,21 @@
 <h3> this is a virtual machine created on my disktop </h3>
 
 ![image](https://github.com/ambrosegriffiths/Configuring-Active-Directory-within-Azure-VMs/assets/167513668/f50b5cf8-303f-4f26-8acc-c316f5b9a4a3)
+
+<h3>This is a live cycle of inspecting Network Protocol in Wireshark</h3>
+
+![image](https://github.com/ambrosegriffiths/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols/assets/167513668/68d7caf5-6b8e-4b9b-bedd-a255f5046768)
+
+<h3>Ping VM2 pravite and have it respond to VM1</h3>
+
+![image](https://github.com/ambrosegriffiths/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols/assets/167513668/24801501-5e22-49e5-a77c-85761f7b418c)
+
+<h3>Inspecting SSh traffic using WIRESHARK</h3>
+
+![image](https://github.com/ambrosegriffiths/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols/assets/167513668/db8a239b-0527-4a46-89cb-9115e1fc8742)
+
+
+
 
 
 <h2>Actions and Observations</h2>
